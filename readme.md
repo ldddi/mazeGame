@@ -1,13 +1,12 @@
-## 介绍
+## Introduction 🎮
+A local game based on the pygame library! 🚗💨
+Download static and main.exe to play ▶️
+You can add game maps in static/maps/ , with two levels by default 
 
-一个基于pygam库的本地游戏!~
+Enter the description in the `.txt` file: 📝
+- The first number n is the number of obstacles 🚧, followed by n obstacles' coordinates x, y and width, height w, h
+- The second number n is the number of stars ⭐, followed by n stars' coordinates and width, height
+- The third number n is the number of crowns 👑, followed by n crowns' coordinates and width, height
+- The fourth is the car's coordinates 🚗
 
-下载 static和main.exe 即可游玩
-
-可在 static/maps/ 中添加游戏地图, 默认是两关
-
-`.txt` 文件中输入介绍： 
-- 第一个数 n 是 障碍物的个数, 接下来是 n 个障碍物的坐标 x, y 和 宽高 w, h
-- 第二个数 n 是 star 的个数, 接下来是 n 个star的坐标和宽高
-- 第三个数 n 是 皇冠 的个数, 接下来是 n 个皇冠的坐标和宽高
-- 第四个是 小车的坐标
+**Have fun playing! 🎉🎊**
